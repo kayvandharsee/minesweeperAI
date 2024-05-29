@@ -1,5 +1,6 @@
 # minesweeperAI
 <img width="593" alt="Screenshot 2024-05-29 at 2 44 22 PM" src="https://github.com/kayvandharsee/minesweeperAI/assets/135669229/378b6aa0-89e2-4228-a881-3085d2df3785">
+
 ## Summary
 This assignment utilizes First Order Logic and Inference Rules in order to allow an AI agent to optimally play the game minesweeper.
 ## Background
